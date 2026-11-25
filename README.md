@@ -3,6 +3,7 @@
 Report form + public status board (Open / In Progress / Fixed) with upvotes, built with Flask + SQLite + vanilla HTML/CSS/JS.
 
 ## Run it
+live demo at- https://campus-issue-reporter-cvdv.vercel.app/
 
 ```
 pip install -r requirements.txt
